@@ -1,2 +1,2 @@
 # Add your variables here
-get_variable_from_file('./calculator.rb', "first_number") = first_number
+first_number = "hello world!"
